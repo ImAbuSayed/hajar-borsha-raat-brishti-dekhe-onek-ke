@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Hajar Borsha Raat (Brishti Dekhe Onek Ke)
+
+This log tracks the cryptographic history and versioning for the song **Hajar Borsha Raat (Brishti Dekhe Onek Ke)** (hajar-borsha-raat-brishti-dekhe-onek-ke).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-10T02:45:09.980665 | `v1` | `7dd8156209edb31cde9472a43103fd8ccc5ef9c1e3c0acfa48089b79a2b0b5e7` | `c3fd9ca11ff1e0bf498b8e762f9a565a3f0cb97ea9e6a99d534d3ff10fb8709c` | `2026-05-10_hajar-borsha-raat-brishti-dekhe-onek-ke-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
