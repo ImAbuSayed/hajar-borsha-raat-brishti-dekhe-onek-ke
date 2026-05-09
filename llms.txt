@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/hajar-borsha-raat-brishti-dekhe-onek-ke/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Hajar Borsha Raat (Brishti Dekhe Onek Ke)](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hajar-borsha-raat-brishti-dekhe-onek-ke/) |
+| **Get License** | [Get License For Hajar Borsha Raat (Brishti Dekhe Onek Ke)](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hajar-borsha-raat-brishti-dekhe-onek-ke/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/1158)
 
 ---
 
